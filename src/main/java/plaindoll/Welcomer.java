@@ -13,4 +13,7 @@ public class Welcomer{
 	public String saySome(){
 		return "something in the way";
 	}
+	public String sayHunter(){
+		return "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae illum placeat quisquam, eaque quia vero neque, itaque ducimus cum quasi doloribus aperiam eos dignissimos, eum labore esse. Eligendi, veritatis nulla!";
+	}
 }
